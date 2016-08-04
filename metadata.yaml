@@ -1,0 +1,57 @@
+_repo: The-Diary-of-Samuel-Pepys---Complete_4200
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Bright, Mynors
+    birthdate: 1818
+    deathdate: 1883
+    gutenberg_agent_id: '1394'
+    url: http://www.gutenberg.org/2009/agents/1394
+covers:
+- cover_type: archival
+  image_path: 4200/4200-h/images/cover.jpg
+  rights: Public domain in the USA.
+  rights_url: http://creativecommons.org/about/pdm
+creator:
+  author:
+    agent_name: Pepys, Samuel
+    birthdate: 1633
+    deathdate: 1703
+    gutenberg_agent_id: '1181'
+    url: http://www.gutenberg.org/2009/agents/1181
+    wikipedia: http://en.wikipedia.org/wiki/Samuel_Pepys
+  editors:
+  - agent_name: Wheatley, Henry B. (Henry Benjamin)
+    alias: Wheatley, H. B. (Henry Benjamin)
+    birthdate: 1838
+    deathdate: 1917
+    gutenberg_agent_id: '205'
+    url: http://www.gutenberg.org/2009/agents/205
+    wikipedia: http://en.wikipedia.org/wiki/Henry_B._Wheatley
+  - agent_name: Braybrooke, Richard Griffin, Baron
+    aliases:
+    - Griffin, Richard, Baron Braybrooke
+    - Neville, Richard
+    birthdate: 1783
+    deathdate: 1858
+    gutenberg_agent_id: '1182'
+    url: http://www.gutenberg.org/2009/agents/1182
+description: ''
+gutenberg_issued: '2004-10-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4200'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Great Britain -- History -- Charles II, 1660-1685 -- Sources'
+- !lcsh 'Cabinet officers -- Great Britain -- Diaries'
+- !lcsh 'Great Britain -- Social life and customs -- 17th century -- Sources'
+- !lcsh 'Pepys, Samuel, 1633-1703 -- Diaries'
+- !lcc 'DA'
+- !lcsh 'Diarists -- Great Britain -- Diaries'
+- GITenberg
+title: The Diary of Samuel Pepys — Complete
+url: http://www.gutenberg.org/ebooks/4200
