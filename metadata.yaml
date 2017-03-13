@@ -1,5 +1,5 @@
 _repo: The-Diary-of-Samuel-Pepys---Complete_4200
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Bright, Mynors
@@ -9,9 +9,7 @@ contributor:
     url: http://www.gutenberg.org/2009/agents/1394
 covers:
 - cover_type: archival
-  image_path: 4200/4200-h/images/cover.jpg
-  rights: Public domain in the USA.
-  rights_url: http://creativecommons.org/about/pdm
+  image_path: 4200-h/images/cover.jpg
 creator:
   author:
     agent_name: Pepys, Samuel
@@ -37,6 +35,8 @@ creator:
     gutenberg_agent_id: '1182'
     url: http://www.gutenberg.org/2009/agents/1182
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/4200#The-Diary-of-Samuel-Pepys---Complete
 gutenberg_issued: '2004-10-31'
 gutenberg_type: Text
 identifiers:
